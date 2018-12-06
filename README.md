@@ -1,0 +1,2 @@
+# CompilationTheory
+Creating a Program which receives an Abstract Syntax Tree written in a language similar to Pascal and computing Pcode as output. this program supports primitives , print , expressions , assignments , if-else , if , while , pointers , records , using defined types , switch , break , arrays , functions , procedure , nested functions , passing by value/refrence , passing functions as parameters and computing ssp,sep accordingly  
