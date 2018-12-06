@@ -5,7 +5,7 @@ import java.util.*;
 
 class homework2 {
 	int a=0; // commit test
-
+	int b=0; // second push test
     static int LAB = 0; // compiler variable for labels
     static int SWITCH = -1; // switch
     static int CASE = 0;
